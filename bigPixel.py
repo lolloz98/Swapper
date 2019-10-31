@@ -1,9 +1,6 @@
 from enum import Enum
 
 
-# todo test if everything works here
-
-
 class BigPixel(object):
     min_dists = [-1, -1, -1, -1]
     better_matches_bp_n = [-1, -1, -1, -1]
